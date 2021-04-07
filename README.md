@@ -1,5 +1,5 @@
 # Data Analysis of a Game Industry
-Здесь вы можете увидеть мой анализ Игровой Индустрии, на основе [данных из реального мира](https://code.s3.yandex.net/datasets/games.csv).
+Здесь вы можете увидеть [мой анализ](https://github.com/hzchet/Analysis-of-a-Game-Industry/blob/main/Analysis-of-a-Game-Industry.ipynb) Игровой Индустрии, на основе [данных из реального мира](https://code.s3.yandex.net/datasets/games.csv).
 ## Во время проекта:
 - Провел первичный анализ данных с обработкой пропущенных значений
 - Провел исследовательский анализ данных:
